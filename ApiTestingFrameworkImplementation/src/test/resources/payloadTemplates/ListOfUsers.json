@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "username": "johndoe90",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "phone": "555-010-1234",
+    "userStatus": 1
+  },
+  {
+    "id": 1,
+    "username": "janesmith85",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "password": "securepass!",
+    "phone": "555-678-9012",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "bob_marley",
+    "firstName": "Robert",
+    "lastName": "Marley",
+    "email": "bob.m@music.com",
+    "password": "reggae4ever",
+    "phone": "555-345-6789",
+    "userStatus": 1
+  }
+]

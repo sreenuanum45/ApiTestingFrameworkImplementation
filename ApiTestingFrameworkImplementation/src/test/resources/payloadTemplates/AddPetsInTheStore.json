@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "Puppy"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "lucky"
+    }
+  ],
+  "status": "available"
+}
